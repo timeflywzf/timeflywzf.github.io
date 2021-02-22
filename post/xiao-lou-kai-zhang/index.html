@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>Gridea | 转瞬间</title>
+<title>小楼开张 | 转瞬间</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,21 @@
 <link rel="stylesheet" href="https://timeflywzf.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="躲进小楼成一统">
+    <meta name="description" content="年少时也曾充满表达的欲望，在QQ空间、人人、新浪博客写下一些文字记录当时的心情和生活。那时，希望别人看见自己的生活，也希望看到别人的生活。
+这些年，传统互联网的一些平台渐渐没落，说不清哪天就停止服务了，不愿意在这些平台上再倾注精力。移动互联..." />
+    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
@@ -88,30 +96,28 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: Gridea</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://timeflywzf.github.io/post/hello-gridea/">
-                  <h2 class="post-title">Hello Gridea</h2>
-                </a>
-                <div class="post-date">
-                  2018-12-12
-                </div>
-                <div class="post-abstract">
-                  <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+          <div class="post-detail">
+            <h2 class="post-title">小楼开张</h2>
+            <div class="post-date">2021-02-22</div>
+            
+            <div class="post-content" v-pre>
+              <pre><code>年少时也曾充满表达的欲望，在QQ空间、人人、新浪博客写下一些文字记录当时的心情和生活。那时，希望别人看见自己的生活，也希望看到别人的生活。
+这些年，传统互联网的一些平台渐渐没落，说不清哪天就停止服务了，不愿意在这些平台上再倾注精力。移动互联网时代崛起的微信，虽然维系着众多过去朋友的联系，但更多承载着工作沟通的功能，缺乏在上面表达的欲望。
+感谢Gridea，让我找回了记录的欲望。</code></pre>
 
-                </div>
-              </div>
+            </div>
+            
+            
+
+            
               
-            </article>
-          
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
 
-          <div class="pagination-container">
-  
-  
-</div>
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -132,6 +138,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 

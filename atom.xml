@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://timeflywzf.github.io</id>
     <title>转瞬间</title>
-    <updated>2021-02-22T03:32:28.872Z</updated>
+    <updated>2021-02-22T03:47:36.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://timeflywzf.github.io"/>
     <link rel="self" href="https://timeflywzf.github.io/atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://timeflywzf.github.io/images/avatar.png</logo>
     <icon>https://timeflywzf.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 转瞬间</rights>
+    <entry>
+        <title type="html"><![CDATA[小楼开张]]></title>
+        <id>https://timeflywzf.github.io/post/xiao-lou-kai-zhang/</id>
+        <link href="https://timeflywzf.github.io/post/xiao-lou-kai-zhang/">
+        </link>
+        <updated>2021-02-22T03:33:19.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>年少时也曾充满表达的欲望，在QQ空间、人人、新浪博客写下一些文字记录当时的心情和生活。那时，希望别人看见自己的生活，也希望看到别人的生活。
+这些年，传统互联网的一些平台渐渐没落，说不清哪天就停止服务了，不愿意在这些平台上再倾注精力。移动互联网时代崛起的微信，虽然维系着众多过去朋友的联系，但更多承载着工作沟通的功能，缺乏在上面表达的欲望。
+感谢Gridea，让我找回了记录的欲望。</code></pre>
+]]></content>
+    </entry>
 </feed>
