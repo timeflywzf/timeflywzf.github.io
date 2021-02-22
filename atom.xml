@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://timeflywzf.github.io</id>
     <title>转瞬间</title>
-    <updated>2021-02-22T09:36:23.512Z</updated>
+    <updated>2021-02-22T09:40:14.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://timeflywzf.github.io"/>
     <link rel="self" href="https://timeflywzf.github.io/atom.xml"/>
@@ -25,7 +25,7 @@
 <li>有一定的可DIY性。</li>
 <li>最重要的一点，所有的文档都在本地，不用担心平台是否能长久提供服务。</li>
 </ol>
-<p>感谢Gridea！我会坚持在这里写文字记录工作和生活的点滴。</p>
+<p>感谢Gridea！我会坚持在这里用文字记录工作和生活的点滴。</p>
 ]]></content>
     </entry>
 </feed>
