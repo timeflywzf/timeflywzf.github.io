@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://timeflywzf.github.io</id>
     <title>转瞬间</title>
-    <updated>2021-02-22T09:30:15.346Z</updated>
+    <updated>2021-02-22T09:36:23.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://timeflywzf.github.io"/>
     <link rel="self" href="https://timeflywzf.github.io/atom.xml"/>
@@ -17,15 +17,15 @@
         </link>
         <updated>2021-02-22T03:33:19.000Z</updated>
         <content type="html"><![CDATA[<p>学生时代，无忧无虑，希望别人看见自己的生活，也希望看到别人的生活。在那个表达欲望还算强烈的年代，我在QQ空间、人人、新浪博客都留下一些文字记录当时的心情和生活。<br>
-工作这些年，博客一类的传统互联网平台渐渐失去吸引力，而个人生活和工作的压力又与日俱增，所以在网上说话的欲望越来越低。也曾为了以后有个念想，试了包括有道云笔记、OneNote、DayOne、Pendo、一本日记等软件和APP，终究没有坚持下来。有些文字是写给自己的，而有些文字则是希望别人看得到的，单纯的笔记或日记软件无法满足这个要求，所以我没有再使用以上平台。<br>
-偶然之间发现了Gridea这个软件，完全满足了我的需求：</p>
+工作这些年，博客一类的传统互联网平台渐渐失去吸引力，而个人生活和工作的压力又与日俱增，所以在网上说话的欲望越来越低。也曾为了以后有个念想，试了包括有道云笔记、OneNote、DayOne、Pendo、一本日记等软件和APP，终究没有坚持下来。有些文字是写给自己的，而有些文字则是希望别人看得到的，单纯的笔记或日记软件无法满足这个要求，所以我没有再使用以上平台。</p>
+<p>偶然之间发现了Gridea这个软件，完全满足了我的需求：</p>
 <ol>
 <li>零成本，不需要租服务器、买域名。</li>
 <li>搭建步骤简单。</li>
 <li>有一定的可DIY性。</li>
-<li>最重要的一点，所有的文档都在本地，不用担心平台是否能长久提供服务。<br>
-感谢Gridea！我会坚持在这里写文字记录工作和生活的点滴。</li>
+<li>最重要的一点，所有的文档都在本地，不用担心平台是否能长久提供服务。</li>
 </ol>
+<p>感谢Gridea！我会坚持在这里写文字记录工作和生活的点滴。</p>
 ]]></content>
     </entry>
 </feed>
